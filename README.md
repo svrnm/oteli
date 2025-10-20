@@ -45,6 +45,8 @@ We welcome contributions from:
 - Project maintainers sharing resources
 - Event organizers distributing information
 
+We do not provide any guarantees around those redirects, and there is also no analytics.  
+
 ## Technical Details
 
 This service uses Netlify's `_redirects` file format for URL redirection. For advanced
