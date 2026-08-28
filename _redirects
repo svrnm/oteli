@@ -12,6 +12,7 @@
 /with-keycloak  https://observability-on-board.vercel.app/episodes/keycloak/       301
 /with/claude   https://observability-on-board.vercel.app/episodes/claude-code/    301
 /with/buildx   https://observability-on-board.vercel.app/episodes/docker-buildx/  301
-/with/:slug     https://observability-on-board.vercel.app/episodes/:slug/          301
+/with/:slug     https://observability-on-board.vercel.app/episodes/:slug/          302
+/get/:slug     https://observability-on-board.vercel.app/get/:slug/          302
 /whitepaper  https://github.com/cncf/toc/issues/1984                              301
 /gentoo      https://github.com/bronto-community/gentoo-otel-go                   301
