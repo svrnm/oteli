@@ -7,7 +7,11 @@
 /awards      https://opentelemetry.io/blog/2025/community-awards/                 301
 /gc-election https://opentelemetry.io/blog/2025/gc-elections/                     301
 /membership  https://github.com/open-telemetry/community/blob/main/guides/contributor/membership.md  301
-/with-claude https://bronto.io/blog/sending-logs-from-claude-code-to-bronto       301 
-/with-buildx https://docs.bronto.io/integrations/docker-build                     301
+/with-claude    https://observability-on-board.vercel.app/episodes/claude-code/    301
+/with-buildx    https://observability-on-board.vercel.app/episodes/docker-buildx/  301
+/with-keycloak  https://observability-on-board.vercel.app/episodes/keycloak/       301
+/with/claude   https://observability-on-board.vercel.app/episodes/claude-code/    301
+/with/buildx   https://observability-on-board.vercel.app/episodes/docker-buildx/  301
+/with/:slug     https://observability-on-board.vercel.app/episodes/:slug/          301
 /whitepaper  https://github.com/cncf/toc/issues/1984                              301
 /gentoo      https://github.com/bronto-community/gentoo-otel-go                   301
